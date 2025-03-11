@@ -1,0 +1,26 @@
+{
+    "setting_title": "Setting",
+    "setting_about": "About",
+    "setting_lang": "Language",
+    "setting_lang_en": "English",
+    "setting_lang_hant": "繁中",
+
+	"about_title": "About",
+    "about_content": "This is my app",
+
+    "nav_home": "Home",
+    "nav_setting": "Setting",
+
+	"radio_station": "Station",
+    "radio_favorite": "Favorite",
+    "radio_history": "History",
+    "radio_tag": "Tag",
+    "radio_country": "Country",
+    "radio_language": "Language",
+    
+    "err_no_network": "No network",
+
+    "common_close": "Close",
+
+	"app_title": "Flutter Radio"
+}

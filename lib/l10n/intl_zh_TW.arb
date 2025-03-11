@@ -1,0 +1,26 @@
+{
+    "setting_title": "設定",
+    "setting_about": "關於",
+    "setting_lang": "語言",
+    "setting_lang_en": "English",
+    "setting_lang_hant": "繁中",
+
+	"about_title": "關於",
+    "about_content": "這是我的 app",
+
+    "nav_home": "首頁",
+    "nav_setting": "設定",
+
+	"radio_station": "電台",
+    "radio_favorite": "最愛",
+    "radio_history": "歷史紀錄",
+    "radio_tag": "標籤",
+    "radio_country": "國家",
+    "radio_language": "語言",
+    
+    "err_no_network": "無網路",
+
+    "common_close": "關閉",
+
+	"app_title": "Flutter 收音機"
+}
