@@ -1,5 +1,7 @@
 # flutter_radio
 
+### [English](README.md), [中文](README.zh-tw.md)
+
 This flutter radio project demonstrates the use of [radio-browser](https://www.radio-browser.info/) API, retrofit, and riverpod. Retrofit is a HTTP client library, and riverpod is a reactive caching and data-binding framework to take care of application's logic. Additionally, we use [audioplayers](https://pub.dev/packages/audioplayers) to play radio station and realm database to store favorite and played radio stations.
 
 ![app preview](media/app_preview.gif)
@@ -15,7 +17,7 @@ This flutter radio project demonstrates the use of [radio-browser](https://www.r
    - [search_choices](https://pub.dev/packages/search_choices): Highly customizable Widget to search through a single or multiple choices list in a dialog box or a menu
 
 ## How to Run
-  1. Clone source
+  1. git clone https://github.com/ethanlyko/flutter_radio.git
   2. Run it
 
 ## Overview
