@@ -1,6 +1,6 @@
 # flutter_radio
 
-### [English](README.md), [中文](README.zh-tw.md)
+### [English](README.md), [中文](README_zh-tw.md)
 
 這個 Flutter 廣播專案展示了 [radio-browser](https://www.radio-browser.info/) API、Retrofit 和 Riverpod 的使用。Retrofit 是一個 HTTP 客戶端函式庫，而 Riverpod 是一個反應式快取和資料綁定框架，用於處理應用程式的邏輯。此外，我們使用 [audioplayers](https://pub.dev/packages/audioplayers) 來播放廣播電台，並使用 Realm 資料庫來儲存最愛和播放過的廣播電台。
 
